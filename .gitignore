@@ -1,3 +1,7 @@
+vivado.log
+*.str
 *.hw
 *.cache
 *.jou
+*.ip_user_files
+*.sim
